@@ -1,0 +1,7 @@
+{
+  "name": "csp-nonce-ionic-error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
